@@ -70,11 +70,11 @@ h6 {
 }
 
 .btn-primary {
-    border-color: #{{ site.data.template.color.primary }};
+    border-color: #257aa6;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
-    color: #257aa6;
+    color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
 
